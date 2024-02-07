@@ -1,0 +1,12 @@
+{
+  "name": "smkn4-nodejs2",
+  "version": "1.0.0",
+  "description": "ini adalah latihan node js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node kalkulator.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AgungA142",
+  "license": "ISC"
+}

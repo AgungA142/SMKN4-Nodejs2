@@ -1,0 +1,7 @@
+POST:"localhost:8000"
+Header: "Content-Type: application/json"
+Body: 
+{
+    "username": "admin",
+    "password": "admin"
+}
